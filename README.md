@@ -1,5 +1,9 @@
 # Uber_and_Lyft_Project
 
+## Dataset
+
+Data source: https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma?resource=download
+
 ## Project Goals
 
 This project aims to analyze and compare ride-hailing services, focusing on Uber and Lyft in Boston to understand pricing dynamics, availability, and demand patterns. This project also completed by predictive model to estimate ride prices based on multiple influencing factors.
